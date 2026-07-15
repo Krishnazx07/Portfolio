@@ -1,6 +1,7 @@
 # Portfolio
+## Project for Horizons
 # Hello Everyone
-This is my portfolio website and also my first ever project, It is hepful for anyone who wants to work with me and wnat to know about my skills.
+This is my portfolio website and also my first ever project, It is hepful for anyone who wants to work with me and want to know about my skills.
 
 # Tech stack
 I coded this website in ***Visual Studio Code***, and used ***HTML*** and ***CSS** to code it.
