@@ -14,8 +14,7 @@ You can either use this lnk to view my project [By clicking HERE](https://krishn
 Or you can host it from your pc ***localhost*** (Why would you even do that?)
 
 # Project Images
-![Uploading Web S4.png…]()
-
+Couldnt add even after trying multiple type variant of the Images
 
 # How much AI was used
 The only AI used in this project was for asking where the problem was in code.
