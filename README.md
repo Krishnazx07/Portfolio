@@ -15,7 +15,8 @@ You can either use this lnk to view my project [By clicking HERE](https://krishn
 Or you can host it from your pc ***localhost*** (Why would you even do that?)
 
 # Project Images
-Couldnt add even after trying multiple type variant of the Images
+<img width="950" height="473" alt="Wen S1" src="https://github.com/user-attachments/assets/ef2b2fa5-8d02-40a6-b36e-747268d9524b" />
+<img width="944" height="278" alt="Web S5" src="https://github.com/user-attachments/assets/09704076-dab0-4596-b70d-aaf87984a78e" />
 
 # How much AI was used
 The only AI used in this project was for asking where the problem was in code.
